@@ -982,8 +982,8 @@ section,
 
 .featured-services .service-item .icon {
   background-color: color-mix(in srgb, var(--accent-color), transparent 80%);
-  width: 72px;
-  height: 72px;
+  width: 90px;
+  height: 90px;
   position: relative;
   margin-right: 15px;
   line-height: 0;
@@ -1113,7 +1113,7 @@ section,
 }
 
 .clients .client-logo img {
-  padding: 20px 40px;
+  padding: 20px 10px;
   max-width: 90%;
   transition: 0.3s;
   opacity: 0.5;
